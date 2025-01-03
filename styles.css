@@ -46,7 +46,7 @@ main p {
 }
 
 article {
-    width: 30%;
+    width: 80%;
     margin: 10px;
     padding: 20px;
     text-align: center;
@@ -108,6 +108,7 @@ footer {
     justify-content: space-between;
     align-items: flex-start;
     flex-wrap: wrap;
+    text-align: center;
 }
 
 footer h3 {
